@@ -18,9 +18,9 @@
   </header>
 
   <main>
-    <div>
+    <div class="top-card">
       <div>
-        <img src="" alt="">
+        <img src="./assets/avatar.png" alt="Avatar">
       </div>
       <div>
         <h1>Nome</h1>
